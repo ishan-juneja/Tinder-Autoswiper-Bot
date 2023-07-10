@@ -21,3 +21,8 @@ This video demo highlights the automatic logging-in process and the auto swipe m
 
 https://github.com/ishan-juneja/Tinder-Autoswiper-Bot/assets/69048541/749b2e51-3d1c-42ed-85a9-f10a5748c8c2
 
+## Future Improvements
+1. Being able to bypass all manual steps as mention above under point 1 in "Dependencies & Configurations"
+2. Being able to log in automatically as per user's choice with Facebook & Number as options too
+3. Being able to exit away from the match popup while swiping during Tinder
+
