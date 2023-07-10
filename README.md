@@ -1,6 +1,6 @@
 # Tinder-Autoswiper-Bot
 
-This program is a bot that auto-swipes right for you on Tinder to save a Tinder user's time.
+This program creates a bot that auto-swipes right for you on Tinder to save a Tinder user's time.
 
 ## Structure
 - `main.py` runs the entirety of the program and performs the swipes
